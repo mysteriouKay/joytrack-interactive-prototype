@@ -1,0 +1,1 @@
+# JoyTrack Interactive Prototype`n`nOpen the live prototype: https://mysteriouskay.github.io/joytrack-interactive-prototype/`n`nThis repository contains the standalone JoyTrack clickable UI prototype.
